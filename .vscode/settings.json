@@ -28,4 +28,5 @@
         "doctype-first": false,
         "spec-char-escape": false,
     },
+    "jupyter.jupyterServerType": "local",
 }
